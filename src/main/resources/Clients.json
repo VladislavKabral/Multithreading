@@ -1,0 +1,58 @@
+{
+  "clients":  [
+    {
+      "id": 1,
+      "name": "Bob",
+      "isPreOrder": "false",
+      "state": "processing"
+    },
+    {
+      "id": 2,
+      "name": "Jhon",
+      "isPreOrder": "true",
+      "state": "processing"
+    },
+    {
+      "id": 3,
+      "name": "Michael",
+      "isPreOrder": "false",
+      "state": "processing"
+    },
+    {
+      "id": 4,
+      "name": "Luke",
+      "isPreOrder": "false",
+      "state": "processing"
+    },
+    {
+      "id": 5,
+      "name": "Steph",
+      "isPreOrder": "false",
+      "state": "processing"
+    },
+    {
+      "id": 6,
+      "name": "Lebron",
+      "isPreOrder": "true",
+      "state": "processing"
+    },
+    {
+      "id": 7,
+      "name": "Kobe",
+      "isPreOrder": "false",
+      "state": "processing"
+    },
+    {
+      "id": 8,
+      "name": "Scott",
+      "isPreOrder": "false",
+      "state": "processing"
+    },
+    {
+      "id": 9,
+      "name": "David",
+      "isPreOrder": "true",
+      "state": "processing"
+    }
+  ]
+}
